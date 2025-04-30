@@ -1,0 +1,5 @@
+output/citi_bike.db filter=lfs diff=lfs merge=lfs -text
+output/transformed_data.csv filter=lfs diff=lfs merge=lfs -text
+raw_data/JC-202501-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+output/cleaned_data.csv filter=lfs diff=lfs merge=lfs -text
+2013-citibike-tripdata.zip filter=lfs diff=lfs merge=lfs -text
